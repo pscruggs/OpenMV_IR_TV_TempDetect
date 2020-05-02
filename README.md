@@ -1,0 +1,2 @@
+# OpenMV_IR_TV_TempDetect
+IR_Temp_Detect_OpenMV
