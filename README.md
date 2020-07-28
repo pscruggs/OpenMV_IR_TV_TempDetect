@@ -2,7 +2,7 @@
 IR_Temp_Detect_OpenMV
 
 This project contains the files to upload various programs to the OpenMV edge device.
-A picture is here ![/images/openMV_Camera.jpeg]
+A picture is here ![images/openMV_Camera.jpeg]
 
 Currently tested with lepton 2.5 and the H7.
 
